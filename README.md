@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Javed
 #### I am a Front-End Developer
-![I am a Front-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Front-End Developer](https://twitter.com/_skjaved/header_photo)
 
 I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
 
