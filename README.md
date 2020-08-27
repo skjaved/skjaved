@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Javed
 #### I am a Front-End Developer
-![I am a Front-End Developer](https://pbs.twimg.com/profile_banners/1154450725/1478600171/1080x360)
 
 I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
 
