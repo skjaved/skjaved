@@ -1,11 +1,12 @@
-### Hi there 👋, I am Javed
-#### I am a Front-End Developer
+# Javed Shaikh
+I am a Front-End Developer mainly work on UI. I also work on custom WordPress Development.
 
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
-
-Skills: HTML / CSS / JavaScript / PHP
-
-- 🔭 I’m currently working on this page. 
+## Skills & Experience
+* HTML
+* CSS
+* JS
+* PHP
+* WordPress
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skjaved)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/skjaved/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_skjaved/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_skjaved)  
