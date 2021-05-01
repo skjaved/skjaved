@@ -1,5 +1,5 @@
 # Javed Shaikh
-I am a Front-End Developer mainly work on UI. I also work on custom WordPress Development.
+I am a Front-End Developer.
 
 ## Skills & Experience
 * HTML
