@@ -1,6 +1,6 @@
 ### Hi there, I'm [Javed] 👋
 
-- [ ] 💻 Currently working UI Developer
+- [ ] 💻 Currently working as a UI Developer
 - [ ] ⚡ Learning: React, Redux
 - [ ] 💻 Develop: Websites, Landing Pages
 - [ ] Hobbies: Reading, Coding, Eating
