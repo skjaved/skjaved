@@ -33,5 +33,5 @@
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 [twitter]: https://twitter.com/_skjaved
-[instagram]: https://www.instagram.com/_skjaved/
+[instagram]: https://www.instagram.com/frontenddev.js/
 [linkedin]: https://www.linkedin.com/in/skjaved/
