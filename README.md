@@ -1,7 +1,7 @@
 ### Hi there, I'm [Javed] 👋
 
 - [ ] 💻 Front End Developer
-- [ ] ⚡ Learning: React, Redux
+- [ ] ⚡ Works on: JavaScript, React, NextJS
 - [ ] 💻 Develop: Websites, Landing Pages
 - [ ] Hobbies: Reading, Coding, Eating
 
@@ -11,11 +11,11 @@
 {
   "frontend": {
     "languages": [ "html", "css", "js" ]
-    "libraries/frameworks": [ "jQuery", "bootstrap" ]
+    "libraries/frameworks": [ "React", "NextJS" ]
   },
   "ide": [ "vs code", "sublime text 3" ],
   "cms": "wordpress"               
-  "system": "ubuntu",
+  "system": [ "windows", "linux" ]
 }
 ```
 <!-- <img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
